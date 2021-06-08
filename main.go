@@ -1,10 +1,7 @@
 package main
 
 import (
-	//"crypto/x509"
 	"fmt"
-	//"strings"
-	//"time"
 	"math"
 )
 
@@ -46,9 +43,10 @@ cevab := math.Sqrt(float64(sqrt))
 fmt.Println(sqrt, "sayısının karekökü: ", cevab)
 	}
 if cevap == "hayır"{
-	fmt.Println("Oh, peki. Sanırım matematikle aran iyi değil. O zamaaan, görüşürüz :)")
+	fmt.Println("Oh, peki. Sanırım matematikle aran iyi değil. O zamaaan, görüşürüz :)\nFalsis tarafından hazırlandı.")
 }
 }
+//AŞAĞIDAKİ KODLAR ÇALIŞMADIĞI İÇİN KULLANILMADI FAZLA KARIŞTIRMAYIN
 /*if strings.Contains(islem, "*") == "true"{
 	sonuc := çarp(strings.Replace(islem, "*", ",", -1))
 }
