@@ -9,4 +9,4 @@ GoLang minimal karekök kodu. Kullanılabilir ve çalışıyor.
 - Çıkan main.exe dosyasını çalıştırın veya terminale `go run main.go` yazın.
 - Küçük bir terminal programı açılacak en son girilen sayının karekökü çıkacak.
 
-**Bu GoLang'daki ilk projemdi umarım beğenili teşekkür ederim <3**
+**Bu GoLang'daki ilk projemdi umarım beğenilir teşekkür ederim <3**
