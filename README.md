@@ -1,2 +1,2 @@
-# golang-sqrt
-GoLang Square Root
+# GoLang Karekök
+GoLang minimal karekök kodu. Kullanılabilir ve çalışıyor.
